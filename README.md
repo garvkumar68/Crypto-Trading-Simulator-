@@ -8,7 +8,7 @@ A real-time cryptocurrency trading simulator with:
 - Interactive Tkinter GUI
 - Offline backtesting mode
 
-![Screenshot](docs/screenshot.png) *Example: Slippage analysis dashboard*
+![Screenshot](https://github.com/garvkumar68/Crypto-Trading-Simulator-/blob/main/docs/dashboard.png) *Example: Slippage analysis dashboard*
 
 ## Features
 
